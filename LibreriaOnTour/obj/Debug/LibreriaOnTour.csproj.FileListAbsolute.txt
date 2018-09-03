@@ -1,0 +1,6 @@
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\bin\Debug\LibreriaOnTour.dll
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\bin\Debug\LibreriaOnTour.pdb
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\obj\Debug\LibreriaOnTour.csprojAssemblyReference.cache
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\obj\Debug\LibreriaOnTour.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\obj\Debug\LibreriaOnTour.dll
+C:\Users\rolan\Documents\Visual Studio 2017\Projects\LoginOnTour\LibreriaOnTour\obj\Debug\LibreriaOnTour.pdb
