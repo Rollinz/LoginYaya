@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Conexion\Conexion.cs" />
+    <Compile Include="Consultas\ConsultorBaseDatos.cs" />
+    <Compile Include="Consultas\TipoUsuario.cs" />
+    <Compile Include="Consultas\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
